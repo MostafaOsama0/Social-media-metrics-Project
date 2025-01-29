@@ -61,5 +61,15 @@ This project offers a complete breakdown of social media performance through the
 ## 🛠️ **Setup Instructions**  
 1. **Clone the Repository**:  
    ```bash
-   git clone
-     https://github.com/MostafaOsama0/Social-media-metrics-Project/blob/main/Social-Media-Metrics%20Project.xlsx
+   https://github.com/MostafaOsama0/Social-media-metrics-Project/blob/main/Social-Media-Metrics%20Project.xlsx
+2. **Use Excel**: Open the file using Excel
+
+---
+## 📞 Contact  
+For any questions or feedback, feel free to connect:
+- **GitHub**: [MostafaOsama0](https://github.com/MostafaOsama0)
+- **Linkedin**:[Mostafa Osama](https://www.linkedin.com/in/mustafaosama0)
+- **Email**: mostafaosama7213@gmail.com
+- **Phone**: +20 01271239591
+- 
+   
